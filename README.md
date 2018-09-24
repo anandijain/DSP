@@ -12,3 +12,6 @@ Resources I used to get started:
   https://www.youtube.com/watch?v=5xd9BMxoXqo
   
   https://www.youtube.com/watch?v=tgamhuQnOkM
+
+
+note: Not all of this code was written by me. I have taken pieces from these sources and added some of my own code.
