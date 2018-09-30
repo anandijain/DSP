@@ -1,7 +1,7 @@
 # DSP
 messing around with bit manipulation in sound processing
 
-Resources I used to get started: 
+resources I used to get started: 
   
   https://stackoverflow.com/questions/23030980/creating-a-stereo-wav-file-using-c
 
@@ -14,4 +14,4 @@ Resources I used to get started:
   https://www.youtube.com/watch?v=tgamhuQnOkM
 
 
-note: Not all of this code was written by me. I have taken pieces from these sources and added some of my own code.
+note: not all of this code was written by me. I have taken pieces from these sources and added some of my own code.
